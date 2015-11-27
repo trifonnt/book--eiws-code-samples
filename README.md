@@ -3,6 +3,9 @@
 # More information
 http://lkrnac.net/blog/2015/10/enterprise-spring-examples-and-integration-tests
 
+https://dzone.com/articles/enterprise-spring-examples-and-integration-tests
+
+
 # Build
     cd 0000-examples-parent
     mvn clean install
